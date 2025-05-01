@@ -10,7 +10,7 @@ For more details, see the [technical paper](#).
 ## Demo
 
 Watch a demonstration of the AI shader in action:
-[YouTube Link](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Google Drive Video Link]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/file/d/1xlMLYF8YKRFOQ0o5rnbmJutuw2WTQNnR/view?usp=sharing))
 
 ---
 
